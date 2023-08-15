@@ -1,6 +1,6 @@
-name: LoadWorld
+name: AboshLoadsTheWorld
 main: abosh\LoadWorld\Main
 version: 1.0.0
-api: 3.0.0
+api: 5.0.0
 author: abosh
-description: LoadWorld this plugin by Abosh
+description: AboshLoadsTheWorld this plugin by Abosh
